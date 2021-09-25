@@ -3,7 +3,7 @@
 ### University of California San Diego   
 ### Major: Cognitive Science, Specialized in Machine Learning & Neural Computation  
 ### Minor: Computer Science  
-### Personal website: [https://xiw019.com]  
+### Personal website: [Xianglong's Blog](https://xiw019.com)  
 
 # Skill & Experience  
 ### Programming Language: 
