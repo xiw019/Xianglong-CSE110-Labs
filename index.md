@@ -24,7 +24,9 @@
     - archery 
     - PC DIY
   
-My favorite piece of code. 
-```c
-#include <stdio.h>
+#My favorite piece of code. ～~Proof of me as a scientist～~
+```python
+import tensorflow as tf
+import numpy as np
+import matplotlib
 ```
