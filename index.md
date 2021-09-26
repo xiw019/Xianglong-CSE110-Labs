@@ -24,7 +24,7 @@
     - archery 
     - PC DIY
   
-#My favorite piece of code. ～~Proof of me as a scientist～~
+#My favorite piece of code. ~what makes me a future data scientist～
 ```python
 import tensorflow as tf
 import numpy as np
