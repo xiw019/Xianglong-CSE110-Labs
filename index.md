@@ -5,7 +5,7 @@
 ### Minor: Computer Science 
 
 
-### Don't forget to check my personal website: - [] [Xianglong's Blog](https://xiw019.com)  
+### Don't forget to check my personal website: - [Xianglong's Blog](https://xiw019.com)  
 
 # Skill & Experience  
 ### Programming Language: 
@@ -26,13 +26,13 @@
     2. archery 
     3. PC DIY
   
-###My favorite piece of code. ~~what makes me a future data scientist~~
+### My favorite piece of code. ~~what makes me a future data scientist~~
 ```python
 import tensorflow as tf
 import numpy as np
 import matplotlib
 ```
-###My favorite slogan:
+### My favorite slogan:
 > "restart early, restart often"  
 
 
