@@ -5,7 +5,7 @@
 ### Minor: Computer Science 
 
 
-### Don't forget to check my personal website: - [Xianglong's Blog](https://xiw019.com)  
+### Don't forget to check my personal website: - [ ] Check my blog [Xianglong's Blog](https://xiw019.com)  
 
 # Skill & Experience  
 ### Programming Language: 
