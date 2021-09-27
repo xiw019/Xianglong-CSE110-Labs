@@ -1,4 +1,4 @@
-# About Me
+## About Me
 ![me](/me.jpg)  
 ### Xianglong Wang 
 #### University of California San Diego **@UCSD**  
