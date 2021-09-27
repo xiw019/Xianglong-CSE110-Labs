@@ -1,11 +1,12 @@
 # About Me
-### Xianglong Wang ![me](/me.jpg)
-### University of California San Diego   
-### Major: Cognitive Science, Specialized in Machine Learning & Neural Computation  
-### Minor: Computer Science 
+![me](/me.jpg)  
+### Xianglong Wang 
+#### University of California San Diego   
+#### Major: Cognitive Science, Specialized in Machine Learning & Neural Computation  
+#### Minor: Computer Science 
 
-
-### Don't forget to check my personal website: - [] Check my blog [Xianglong's Blog](https://xiw019.com)  
+#### Don't forget to check my personal website: [] Check my blog  
+[Xianglong's Blog](https://xiw019.com)  
 
 # Skill & Experience  
 ### Programming Language: 
