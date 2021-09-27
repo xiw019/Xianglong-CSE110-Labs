@@ -1,7 +1,7 @@
 # About Me
 ![me](/me.jpg)  
 ### Xianglong Wang 
-#### University of California San Diego   
+#### University of California San Diego **@UCSD**  
 #### Major: Cognitive Science, Specialized in Machine Learning & Neural Computation  
 #### Minor: Computer Science 
 
@@ -26,6 +26,7 @@
     1. Cycling
     2. archery 
     3. PC DIY
+- [ ]check out pictures: [my atheletic activities](/My atheletic activities)
   
 ### My favorite piece of code. ~~what makes me a future data scientist~~
 ```python
