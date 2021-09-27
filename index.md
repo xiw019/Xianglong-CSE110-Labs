@@ -1,9 +1,11 @@
 # About Me
-### Xianglong Wang ![me](/1.jpg)
+### Xianglong Wang ![me](/me.jpg)
 ### University of California San Diego   
 ### Major: Cognitive Science, Specialized in Machine Learning & Neural Computation  
-### Minor: Computer Science  
-### Personal website: [Xianglong's Blog](https://xiw019.com)  
+### Minor: Computer Science 
+
+
+### Don't forget to check my personal website: - [] [Xianglong's Blog](https://xiw019.com)  
 
 # Skill & Experience  
 ### Programming Language: 
@@ -20,13 +22,17 @@
     - OpenCV
 
 # Hobby & Interests
-    - Cycling
-    - archery 
-    - PC DIY
+    1. Cycling
+    2. archery 
+    3. PC DIY
   
-#My favorite piece of code. ~~what makes me a future data scientist~~
+###My favorite piece of code. ~~what makes me a future data scientist~~
 ```python
 import tensorflow as tf
 import numpy as np
 import matplotlib
 ```
+###My favorite slogan:
+> "restart early, restart often"  
+
+
