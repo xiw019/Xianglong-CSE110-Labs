@@ -26,7 +26,8 @@
     1. Cycling
     2. archery 
     3. PC DIY
-- [ ] check out pictures:  [Xianglong's activities](/atheletic_activities.md)
+- [ ] check out activities:  [Xianglong's activities](/atheletic_activities.md)  
+- [ ] check out my PC builds: [Xianglong's builds](/builds.md) 
   
 ### My favorite piece of code. ~~what makes me a future data scientist~~
 ```python
