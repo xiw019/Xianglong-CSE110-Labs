@@ -28,9 +28,9 @@
     3. PC DIY
 - [ ] check out pictures:  
 
-[CYCLING 1](/My atheletic activities/cycling1.jpg)  
-[CYCLING 2](/My atheletic activities/cycling2.jpg)  
-[ARCHERY](/My atheletic activities/archery.jpg)
+[CYCLING 1](My atheletic activities/cycling1.jpg)  
+[CYCLING 2](My atheletic activities/cycling2.jpg)  
+[ARCHERY](My atheletic activities/archery.jpg)
   
 ### My favorite piece of code. ~~what makes me a future data scientist~~
 ```python
